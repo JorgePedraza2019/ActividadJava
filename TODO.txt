@@ -1,0 +1,5 @@
+1. Modificar el código para solicitar una palabra desde la entrada estándar o como argumento en la línea de comandos
+
+2. Modificar la función isPalindrome por el método seleccionado en el diagrama de flujo y pseudocódigo
+
+3. Modificar el mensaje de salida para que muestre "Es palindromo" o "No es palindromo" según corresponda
